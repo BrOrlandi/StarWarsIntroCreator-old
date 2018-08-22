@@ -3,4 +3,4 @@ parcelRequire=function(e,r,n,t){function i(n,t){function o(e){return i(o.resolve
 },{}],75:[function(require,module,exports) {
 "use strict";require("./googleanalytics");
 },{"./googleanalytics":89}]},{},[75], null)
-//# sourceMappingURL=/pageAfterDonation.5b721791.map
+//# sourceMappingURL=/StarWarsIntroCreator-old/pageAfterDonation.5b721791.map
