@@ -5,7 +5,7 @@
   "author": "Kassel Labs <kassellabs@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "build": "rm -rf ./dist && parcel build ./src/index.html",
+    "build": "rm -rf ./dist && parcel build ./src/index.html --public-url /StarWarsIntroCreator-old",
     "start": "parcel ./src/index.html -p 8080 --no-hmr",
     "test": "jest",
     "test:watch": "yarn test --watchAll",
